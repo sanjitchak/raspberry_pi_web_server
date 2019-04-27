@@ -14,6 +14,8 @@ Jquery
 ## Backend:-
 Flask
 
+mySQL
+
 ## Web server:-
 Nginx - Gateway to connect to uWSGI. 
 
