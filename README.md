@@ -5,6 +5,8 @@ Here, I setup web server in my Raspberry Pi. I made a website in Pi to show temp
 ## Screenshots:-
 
 ![Alt text](Screenshots/page1.png?raw=true "Optional Title")
+![Alt text](Screenshots/page2_1.png?raw=true "Optional Title")
+![Alt text](Screenshots/page2_2.png?raw=true "Optional Title")
 
 
 ## Front End:-
