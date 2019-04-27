@@ -1,6 +1,10 @@
 # raspberry_pi_web_server
 
-Here, I setup web server in my Raspberry Pi. I made a website in Pi to show temperature and humidity using DHT22 sensor. 
+Here, I setup web server in my Raspberry Pi. I made a website in Pi to show temperature and humidity using DHT22 sensor.   
+Main files are:-  
+1. lab_app_uwsgi.ini  
+2. lab_app_nginx.conf  
+3.  lab_app.py  
 
 # Screenshots:-
 
@@ -25,6 +29,6 @@ Flask
 mySQL
 
 # Web server:-
-Nginx - Gateway to connect to uWSGI. 
+Nginx - Gateway to connect to uWSGI,  by proper port number and IP address using lab_app_nginx.conf
 
-uWSGI - Connect to flask server, by proper port number and IP address.
+uWSGI - Connect to flask server by creating socket using lab_app_uwsgi.ini
