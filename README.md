@@ -6,6 +6,10 @@ Main files are:-
 2. lab_app_nginx.conf  
 3.  lab_app.py  
 
+# Wiring Scheme:-
+
+![Alt text](wiring_schematic.png?raw=true "Optional Title")
+
 # Screenshots:-
 
 ## Front_page:-
