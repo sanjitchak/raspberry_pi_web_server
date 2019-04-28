@@ -8,7 +8,7 @@ Main files are:-
 
 # Wiring Scheme:-
 
-![Alt text](wiring_schematic.png?raw=true "Optional Title")
+![Alt text](wiring_schematic.png?raw=true "Optional Title") 
 
 # Screenshots:-
 
